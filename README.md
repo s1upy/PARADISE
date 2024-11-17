@@ -1,6 +1,4 @@
-# PARADISE
-♾ Бесплатный и рабочий конфиг для Hiddify.
-
+<img src="PARADISE.png" alt="PARADISE"/>
 
 # Hiddify <img src="hiddify.png" alt="Hiddify" width="40"/>
 ```
