@@ -3,4 +3,4 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //profile-web-page-url: https://github.com/s1upy
 //last update on: 2024-11-24 12:19:47
-warp://188.114.98.194:854?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#Warp-IR&&detour=warp://188.114.97.112:8319?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp
+warp://188.114.98.194:854?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#Warp-IR&&detour=warp://188.114.97.112:8319?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp&&detour=warp://162.159.193.09:2408?ifp=10-20&ifps=20-60&ifpd=5-10#PAR
